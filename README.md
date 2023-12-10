@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project involves a thorough analysis of factors influencing customer satisfaction in the airline industry. Utilizing a dataset named 'Invistico_Airline_Cleaned.csv' gotten from Kaggle, the project aims to uncover insights that can aid airlines in enhancing their service quality and overall customer experience. The analysis encompasses a range of variables, including customer demographics, travel class, flight distance, and various service ratings.
+This project involves a thorough analysis of factors influencing customer satisfaction in the airline industry. Utilizing a dataset named 'Invistico_Airline.csv' gotten from Kaggle, the project aims to uncover insights that can aid airlines in enhancing their service quality and overall customer experience. The analysis encompasses a range of variables, including customer demographics, travel class, flight distance, and various service ratings.
 
 ## Objectives
 
